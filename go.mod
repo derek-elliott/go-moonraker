@@ -1,11 +1,10 @@
-module go-moonraker
+module github.com/derek-elliott/go-moonraker
 
 go 1.18
 
 require (
 	github.com/creachadair/jrpc2 v0.37.0
 	github.com/creachadair/wschannel v0.0.0-20220330011739-a5cda5f6009d
-	github.com/gorilla/websocket v1.5.0
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.1
 )
